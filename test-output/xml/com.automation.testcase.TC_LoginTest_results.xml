@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="158.764">
+  <properties />
+  
+  
+            <testcase name="TC01_LoginFirstAccount" time="20.773" classname="com.automation.testcase.TC_LoginTest" />
+                <testcase name="TC01_LoginFirstAccount" time="26.129" classname="com.automation.testcase.TC_LoginTest" />
+                <testcase name="TC01_LoginFirstAccount" time="26.942" classname="com.automation.testcase.TC_LoginTest" />
+                <testcase name="TC01_LoginFirstAccount" time="21.363" classname="com.automation.testcase.TC_LoginTest" />
+                <testcase name="TC01_LoginFirstAccount" time="20.724" classname="com.automation.testcase.TC_LoginTest" />
+                <testcase name="TC01_LoginFirstAccount" time="21.672" classname="com.automation.testcase.TC_LoginTest" />
+                <testcase name="TC01_LoginFirstAccount" time="21.161" classname="com.automation.testcase.TC_LoginTest" />
+      
+</testsuite>
